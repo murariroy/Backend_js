@@ -1,0 +1,16 @@
+{
+  "name": "bakends",
+  "version": "1.0.0",
+  "description": " A backend in Nodesj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "express",
+    "MongoDb"
+  ],
+  "author": "Murari Kumar",
+  "license": "ISC"
+}
